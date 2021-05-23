@@ -1,4 +1,4 @@
-### Hi there 👋  I  am  Lakira  Minlaka.
+### Hi there 👋  I  am  Lakira  Minlaka.👨‍💻
 
 <!--
 **lakira-xxx/lakira-xxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
