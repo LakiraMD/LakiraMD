@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java & C++
 - 😀 I like to code, read, and play games in my free time.
 - 💬 Ask me about anything
+- 😄 Pronouns:he/him/his
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
 
