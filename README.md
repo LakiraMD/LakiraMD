@@ -18,7 +18,7 @@
 </div> -->
 
 
-<p align="left"> <a href="https://twitter.com/lminlaka" target="blank"><img src="https://img.shields.io/twitter/follow/lminlaka?logo=twitter&style=for-the-badge" alt="lminlaka" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
