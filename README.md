@@ -1,6 +1,6 @@
 ### Hi there 👋  I  am  Lakira  Minlaka.👨‍💻
 
-- 🌱 I’m currently learning Java & C++
+- 🌱 I’m currently learning Python & JS
 - 😀 I like to code, read, and play games in my free time.
 - 💬 Ask me about anything
 - 😄 Pronouns:he/him/his
