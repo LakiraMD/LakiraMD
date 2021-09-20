@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://github.com/LeomundHunt/LeomundHunt/blob/main/hi-hello.gif" align="center" style="width: 50%" />
+</div>  
   
 
 ## <div align="center">I'm Lakira Minlaka, a student👨‍🎓 who want to become a full stack developer🚀</div>  
