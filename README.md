@@ -22,13 +22,13 @@
 ## <div align="center">I'm Lakira Minlaka, a student👨‍🎓 who want to become a full stack developer🚀</div>  
   
 
-- 🌱 I’m currently learning React JS  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=38D0F7&size=15&vCenter=true&multiline=true&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+React+JS++)](https://git.io/typing-svg)
   
 
-- ❓ Ask me about anything related to my skills  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=38D0F7&size=15&vCenter=true&multiline=true&lines=%E2%9D%93+Ask+me+about+anything+related+to+my+skills++)](https://git.io/typing-svg)
   
 
-- ⚡ Fun fact: My first line of code was not "Hello World!"  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=38D0F7&size=15&vCenter=true&multiline=true&lines=%E2%9A%A1+Fun+fact%3A+My+first+line+of+code+was+not+%22Hello+World!%22+)](https://git.io/typing-svg) 
   
 
 <br/>  
