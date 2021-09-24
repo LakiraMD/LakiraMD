@@ -61,17 +61,21 @@
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="50px" height="50px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="50px" height="50px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="50px" height="50px"></a>
-</div>
+<a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
+ </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### DevOps  
+### Tools and Editors
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+
+<a href="https://www.linux.org/" title="Bash"><img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" alt="Git" width="50px" height="50px"></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="50px" height="50px"></a>
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" alt="Git" width="50px" height="50px"></a>
+ <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
+<a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="50px" height="50px"></a>
 </div>
 
 </td></tr></table>  
