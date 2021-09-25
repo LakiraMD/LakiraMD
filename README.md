@@ -25,7 +25,7 @@
 - ❓ Ask me about anything related to my skills.
 - ⚡ Fun Fact : My first line of code was not "Hello World!".
 - 📫 Reach me mdlakiramd@gmail.com
-- 🥅 Goals 2021 : Learn everything about MERN stack.
+- 🥅 2021 Goals : Learn everything about MERN stack.
  
 
 <br/>  
