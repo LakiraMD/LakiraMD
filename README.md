@@ -58,6 +58,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="50px" height="50px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
+ <a href="https://www.mongodb.com/" title="Mongodb"><img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="Mongodb" width="50px" height="50px"></a>
+
  </div>
 
 </td><td valign="top" width="33%">
