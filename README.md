@@ -74,7 +74,7 @@
 <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" alt="Git" width="50px" height="50px"></a>
  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
 <a href="https://www.sublimetext.com/" title="Sublime Text"><img src="https://github.com/get-icon/geticon/raw/master/icons/sublime-text.svg" alt="Sublime Text" width="50px" height="50px"></a>
-<a href="https://www.postman.com" title="Git"><img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" width="50px" height="50px"></a>
+<a href="https://www.postman.com" title="Postman"><img src="https://github.com/get-icon/geticon/blob/master/icons/postman.svg" alt="Postman" width="50px" height="50px"></a>
 </div>
 
 </td></tr></table>  
