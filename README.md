@@ -44,9 +44,8 @@
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="50px" height="50px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="50px" height="50px"></a>
 <a href="https://www.electronjs.org/" title="Electron"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="50px" height="50px"></a>
-<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="50px" height="50px"></a>
-<a href="https://greensock.com/gsap/" title="GSAP"><img src="https://github.com/get-icon/geticon/raw/master/icons/gsap.svg" alt="GSAP" width="50px" height="50px"></a>
-</div>
+<a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="50px" height="50px"></a>
+
 
 </td><td valign="top" width="33%">
 
@@ -96,7 +95,7 @@
 <a href="https://dev.to/lakiramd" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/__x.o.x.___" target="_blank">
+<a href="https://instagram.com/youth_coder" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://stackoverflow.com/users/15799999/lakira-minlaka" target="_blank">
@@ -109,7 +108,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LeomundHunt&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeomundHunt&hide_border=true&layout=compact&theme=algolia" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LakiraMD&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakiraMD&hide_border=true&layout=compact&theme=algolia" align="center" /></div> 
 
 <br/>  
 
