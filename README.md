@@ -15,42 +15,60 @@
 ╱╰╯╰╯╰━━┻╯╰━┻━━┻╯<br>
 </h5>
 
-<img src="https://github.com/LeomundHunt/LeomundHunt/blob/main/hi-hello.gif" align="center" style="width: 50%" />
+ ## <div align="center">I'm Lakira Minlaka, a student👨‍🎓 who want to become a full stack developer🚀</div> 
+<img src="https://github.com/LeomundHunt/LeomundHunt/blob/main/hi-hello.gif" style="width: 40%"  alt="hello World!" align="right"/>
 </div>  
   
 
-## <div align="center">I'm Lakira Minlaka, a student👨‍🎓 who want to become a full stack developer🚀</div>  
+ 
   
 - 🌱 I am currently learning React JS.
 - ❓ Ask me about anything related to my skills.
 - ⚡ Fun Fact : My first line of code was not "Hello World!".
 - 📫 Reach me mdlakiramd@gmail.com
-- 🥅 2021 Goals : Learn everything about MERN stack.
+- 🥅 2022 Goals : Learn more about JavaScript, Next js and web3.
  
 
 <br/>  
 
+<br/>
+
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/LakiraMD" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+ <table>
+  <td>
+<a href="https://github.com/LakiraMD" target="_blank" title="github">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg"  width="50px" height="50px" style="margin-right: 30px"/>
 </a>
-<a href="https://twitter.com/Lakira_MD" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </td>
+  <td>
+<a href="https://twitter.com/Lakira_MD" target="_blank" title="twitter">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/twitter.svg"  width="50px" height="50px" />
 </a>
-<a href="https://linkedin.com/in/lakira-minlaka-40a7b2200" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </td>
+  <td>
+<a href="https://linkedin.com/in/lakiramd" target="_blank" title="linkedin">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" width="50px" height="50px" />
 </a>
-<a href="https://dev.to/lakiramd" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+   
+  </td>
+  <td>
+<a href="https://dev.to/lakiramd" target="_blank" title="devto">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/devto.svg"  width="50px" height="50px" />
 </a>
-<a href="https://instagram.com/youth_coder" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </td>
+  <td>
+<a href="https://instagram.com/youth_coder" target="_blank" title="instagram">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg"  width="50px" height="50px" />
 </a>  
-<a href="https://stackoverflow.com/users/15799999/lakira-minlaka" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+  </td>
+  <td>
+<a href="https://stackoverflow.com/users/15799999/lakira-minlaka" target="_blank" title="stackoverflow">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/stackoverflow-icon.svg" width="50px" height="50px" />
 </a>
+  </td>
+ </table>
 </div>  
 
 ## My Skill Set  
