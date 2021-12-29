@@ -127,8 +127,8 @@
 <br/>  
 
 ## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LakiraMD&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakiraMD&hide_border=true&layout=compact&theme=algolia" align="center" /></div> 
