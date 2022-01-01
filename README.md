@@ -128,6 +128,8 @@
 
 ## My Latest Blog Posts 👇
  <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s Add Buy Me a Coffee Widget to your WebSite in 30 Seconds](https://blog.lakiramd.com/lets-add-buy-me-a-coffee-widget-to-your-website-in-30-seconds)
+- [Awesome CSS Tips NoBody tells you!](https://blog.lakiramd.com/awesome-css-tips-nobody-tells-you)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats  
