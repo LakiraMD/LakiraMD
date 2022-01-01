@@ -127,7 +127,7 @@
 <br/>  
 
 ## My Latest Blog Posts 👇
-<!-- BLOG-POST-LISTBLOG-POST-LIST:START -->
+ <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats  
