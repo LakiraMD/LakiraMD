@@ -138,9 +138,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LakiraMD&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakiraMD&hide_border=true&layout=compact&theme=algolia" align="right" /></div> 
+<img src="https://github-readme-stats.vercel.app/api?username=LakiraMD&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakiraMD&hide_border=true&layout=compact&theme=algolia" align="center" />
 
 <br/>  
+
+
 
 ## Support Me
 <div align="center" style="margin-top: 40px">
