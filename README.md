@@ -59,7 +59,7 @@
 </a>
   </td>
   <td>
-<a href="https://instagram.com/youth_coder" target="_blank" title="instagram">
+<a href="https://instagram.com/lakira_md" target="_blank" title="instagram">
 <img src="https://github.com/get-icon/geticon/blob/master/icons/instagram-icon.svg"  width="50px" height="50px" />
 </a>  
   </td>
