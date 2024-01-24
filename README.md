@@ -26,7 +26,7 @@
 - ❓ Ask me about anything related to my skills.
 - ⚡ Fun Fact : My first line of code was not "Hello World!".
 - 📫 Reach me mdlakiramd@gmail.com
-- 🥅 2022 Goals : Learn more about JavaScript, Next js and web3.
+
  
 
 <br/>  
